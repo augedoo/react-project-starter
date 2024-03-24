@@ -1,4 +1,6 @@
-# Vite + React + Typescript + Zustand + React Router DOM + React Query + Tailwind CSS + SASS + React Hook Form + React Icons + React Hot Toast
+# React Project 
+
+Vite + React + Typescript + Zustand + React Router DOM + React Query + Tailwind CSS + SASS + React Hook Form + React Icons + React Hot Toast
 
 This template provides a minimal setup to get React (TypeScript) working in Vite.
 
